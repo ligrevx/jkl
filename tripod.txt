@@ -11,4 +11,4 @@ Materials:
   corona cement 215 x 6      = 1,290
   g.i. pipe 3" 1965 x 1      = 1,965
                               -------
-	                           P18,897
+	                     P18,897
